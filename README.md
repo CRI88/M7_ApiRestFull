@@ -40,20 +40,21 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
 
 8. **Probar los endpoints con Postman**  
    - Importa el archivo **Postman Collection** en la aplicación de Postman
-   ```bash
-   mysql -u user -p laredu < backend/database/laredu.sql
 
-9. **Configurar .gitignore**  
+9. **Configurar postman**  
+   - Haz la ruta de **login de usuario** y copia el **token de Sanctum** generado para pegarlo en **Authorization** en **Bearer Token**
+
+10. **Configurar .gitignore**  
    - Asegúrate de que .gitignore ignore las carpetas **vendor/** (Laravel) y **.env**.
 
-10. **Añadir el backend al repositorio**  
+11. **Añadir el backend al repositorio**  
    git add .
 
-11. **Realizar commit y subir los cambios**  
-   git commit -m "Add backend"
-   git push origin main
+12. **Realizar commit y subir los cambios**  
+   **git commit -m "Add backend"** y despúes
+   **git push origin main**
 
-12. **Verificar en GitHub**  
+13. **Verificar en GitHub**  
    Una vez en GitHub, tu repositorio contendrá la carpeta **backend/** y este **README.md**.
 
 **LICENCIA**
