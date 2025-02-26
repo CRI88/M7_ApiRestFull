@@ -50,10 +50,13 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
    ```bash
    git add .
 
-12. **Realizar commit y subir los cambios**  
+11. **Realizar commit y subir los cambios**  
    ```bash
    git commit -m "Add backend"
    git push origin main
+
+12. **Verificar en GitHub**  
+   Una vez en GitHub, tu repositorio contendrá la carpeta **backend/** y este **README.md**.
 
 **LICENCIA**
 Este proyecto está bajo la **Licencia MIT**.
