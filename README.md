@@ -18,7 +18,7 @@ Sigue estos pasos para descargar y configurar el proyecto en tu máquina local:
 1. **Clona el repositorio**
 
    Clonamos con el enlace del repositorio de GitHub:
-   git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/CRI88/M7_ApiRestFull/edit/main/README.md)
+   git clone https://github.com/CRI88/M7_ApiRestFull/tree/main
 Accede al directorio del proyecto
 
 bash
