@@ -45,7 +45,7 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
    - Haz la ruta de **login de usuario** y copia el **token de Sanctum** generado para pegarlo en **Authorization** en **Bearer Token**
 
 10. **Configurar .gitignore**  
-   - Asegúrate de que .gitignore ignore las carpetas **vendor/** (Laravel) y **.env**.
+   - Asegúrate de que .gitignore ignore las carpetas **vendor/** (Laravel) y **.env**
 
 11. **Añadir el backend al repositorio**  
    git add .
