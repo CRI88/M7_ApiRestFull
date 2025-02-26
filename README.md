@@ -47,7 +47,7 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
    - Asegúrate de que .gitignore ignore las carpetas **vendor/** (Laravel) y **.env**.
 
 10. **Añadir el backend al repositorio**  
-   ```bash
+    ```bash
    git add .
 
 11. **Realizar commit y subir los cambios**  
