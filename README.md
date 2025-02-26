@@ -43,10 +43,10 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
    ```bash
    mysql -u user -p laredu < backend/database/laredu.sql
 
-10. **Configurar .gitignore**  
+9. **Configurar .gitignore**  
    - Asegúrate de que .gitignore ignore las carpetas **vendor/** (Laravel) y **.env**.
 
-11. **Añadir el backend al repositorio**  
+10. **Añadir el backend al repositorio**  
    ```bash
    git add .
 
